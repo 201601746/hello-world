@@ -6,3 +6,5 @@ I am a **second year** Computer Science student.
 My hobbies include: 
 1. Reading
 2. Writing
+3. And Coding 
+4. Art 
