@@ -9,3 +9,4 @@ My hobbies include:
 3. And Coding 
 4. Art 
 5. Singing
+6. And Greeting
